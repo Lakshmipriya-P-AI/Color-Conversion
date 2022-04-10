@@ -21,9 +21,10 @@ Split and merge the image using cv2.split and cv2.merge commands.
 End the program and close the output image windows.
 
 # PROGRAM:
-
+/*
 Developed By: Lakshmi priya P
 Register Number: 212221230053
+*/
 
 # i) Convert BGR and RGB to HSV and GRAY:
 ```
